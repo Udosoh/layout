@@ -1,0 +1,76 @@
+
+*{
+    margin: 0;
+    padding: o
+
+}
+
+body{
+
+    margin: 0;
+    padding: 0;
+    background-color: rgb(12, 12, 12);
+}
+
+.container {
+    background-color: black;
+    display: grid;
+    grid-template-rows: 49% 49%;
+    width: 80% ;
+    height: 80vh;
+    margin: 4em auto;
+    row-gap: 1em;
+}
+    
+
+
+
+.cage1{
+display: grid;
+grid-template-columns: 67% 32%;
+column-gap: 1em;
+
+}
+
+
+.cage2{
+    display: grid;
+    grid-template-columns: 49% 49%;
+    
+    column-gap: 1em;
+}
+
+.div1{
+   
+    background-color: blanchedalmond;
+
+}
+
+.div2{
+
+    
+    background-color: rgb(21, 255, 0);
+
+}
+
+.diva{
+   
+    background-color: rgb(247, 0, 255);
+}
+
+.divb{
+    
+    display: grid;
+    grid-template-rows: 48% 48%;
+    row-gap: 1em;
+}
+
+.divi{
+    background-color: rgb(23, 14, 117);
+    
+}
+
+.divii{
+    background-color: rgb(240, 177, 6);
+
+}
